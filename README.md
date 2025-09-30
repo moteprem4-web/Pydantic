@@ -1,2 +1,3 @@
-# Pydantic
-Pydantic Learning
+Pydantic Learning Journey
+
+This repository represents my learning journey with Pydantic, a powerful data validation and settings management library for Python. Through this project, I explored how Pydantic simplifies working with structured data by leveraging Python type hints to ensure correctness, reliability, and efficiency. It is part of my broader journey into mastering FastAPI, modern backend development, and clean data handling practices. This repository not only reflects my progress but also serves as a reference for anyone interested in understanding the fundamentals of Pydantic and its practical use cases.
